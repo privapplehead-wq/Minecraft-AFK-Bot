@@ -1,5 +1,5 @@
 {
-  "serverHost": AquaLand-FZPF.aternos.me,
+  "serverHost": "AquaLand-FZPF.aternos.me",
   "serverPort": 29541,
   "botUsername": "Fiyibot",
   "botChunk": 1
